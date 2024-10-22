@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerScheduler2.0", "WorkerScheduler2.0\WorkerScheduler2.0.csproj", "{7286AC55-F563-45A6-9529-50DB7FC52F58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7286AC55-F563-45A6-9529-50DB7FC52F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7286AC55-F563-45A6-9529-50DB7FC52F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7286AC55-F563-45A6-9529-50DB7FC52F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7286AC55-F563-45A6-9529-50DB7FC52F58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B04504C6-F8FB-406D-85AF-54614DBA4D15}
+	EndGlobalSection
+EndGlobal

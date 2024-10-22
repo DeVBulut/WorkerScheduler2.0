@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "PCMEKP1HvLUxu22iImYQ8IBZ86ty4K889wj71cE4XkvwRRt07LJWauvt6M31WdfYW/zDpelgeW4IA0aMU97mzQ==",
+  "success": true,
+  "projectFilePath": "C:\\C# Projects\\WorkerScheduler2.0\\WorkerScheduler2.0\\WorkerScheduler2.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Han\\.nuget\\packages\\google.apis\\1.68.0\\google.apis.1.68.0.nupkg.sha512",
+    "C:\\Users\\Han\\.nuget\\packages\\google.apis.auth\\1.68.0\\google.apis.auth.1.68.0.nupkg.sha512",
+    "C:\\Users\\Han\\.nuget\\packages\\google.apis.calendar.v3\\1.68.0.3557\\google.apis.calendar.v3.1.68.0.3557.nupkg.sha512",
+    "C:\\Users\\Han\\.nuget\\packages\\google.apis.core\\1.68.0\\google.apis.core.1.68.0.nupkg.sha512",
+    "C:\\Users\\Han\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Han\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Han\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
